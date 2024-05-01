@@ -6,7 +6,7 @@ Her türlü yemeği sipariş edebileceğiniz bir yemek sitesi projesidir.
 
 HTML-CSS-JavaScript
 
-#Gif
+# Gif
 
 https://github.com/aylinsarioglu/yemek-pro/assets/85454483/e12c423e-535e-4d4d-b907-8f0cb86c3567
 
