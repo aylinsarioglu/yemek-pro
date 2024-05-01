@@ -2,6 +2,6 @@
 
 Her türlü yemeği sipariş edebileceğiniz bir yemek sitesi projesidir.
 
-#Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 
 HTML-CSS-JavaScript
