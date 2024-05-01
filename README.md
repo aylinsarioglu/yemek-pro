@@ -1,4 +1,4 @@
-# yemek-website-pro
+# Yemek-website-pro
 
 Her türlü yemeği sipariş edebileceğiniz bir yemek sitesi projesidir.
 
